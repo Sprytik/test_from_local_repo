@@ -1,4 +1,4 @@
-#Comands that was run
+# Comands that was run
 1. git init
 2. echo "Some text" > README.md
 3. git add README.md
